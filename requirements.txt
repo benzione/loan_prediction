@@ -1,0 +1,11 @@
+python-dotenv
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.3.0,<1.5.0
+sqlalchemy
+snowflake-sqlalchemy
+jupyterlab
+matplotlib>=3.6.0
+seaborn>=0.12.0
+pytest
+scipy>=1.10.0
